@@ -1,20 +1,18 @@
-
 #main-body{
 	width: 750px;
 	font-family:Georgia;
 	color: #4aaaa5;
-	padding: 0px;
+	padding: 10px;
 	float:left;
-	margin: 0px;
+	margin: 10px;
 }	
 
 	#name{
 		color: white;
 		background-color: #4aaaa5;
 		width: 210px;
-		padding: 20px;
+		padding: 10px;
 		margin-left: 134px;
-		font-size: 30;
 
 	}
 	#about-me-menu{
@@ -22,7 +20,7 @@
 		float: right;
 		text-align: center;
 		padding: 14px 16px;
-		margin-right: 380px;
+		margin-right: 365px;
 
 
 
@@ -40,19 +38,8 @@
 		font-size: 20px;
 		float: left;
 		padding-top: 0px;
-		padding: 0px;
-		margin-right: 40px;
+		padding: 10px;
 						}
-
-#contact-info{
-	color:#4aaaa5;
-	background-color: white;
-	height: 300px;
-	width: 650px;
-	margin-left: 10%;
-	margin-right: 2%;
-	float: left;
-}
 
 		.images{
 			width: 40px;
@@ -71,7 +58,6 @@ a{
 	width: 650px;
 	background-color: white;
 	margin-left: 10%;
-	margin-bottom: 40%;
 }	
 body{
 	background-color: #dddddd;
@@ -96,6 +82,4 @@ h5{
 
 
 }			
-
-
 
