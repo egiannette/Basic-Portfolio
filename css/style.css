@@ -1,0 +1,101 @@
+
+#main-body{
+	width: 750px;
+	font-family:Georgia;
+	color: #4aaaa5;
+	padding: 0px;
+	float:left;
+	margin: 0px;
+}	
+
+	#name{
+		color: white;
+		background-color: #4aaaa5;
+		width: 210px;
+		padding: 20px;
+		margin-left: 134px;
+		font-size: 30;
+
+	}
+	#about-me-menu{
+		color: #777777;
+		float: right;
+		text-align: center;
+		padding: 14px 16px;
+		margin-right: 380px;
+
+
+
+	}
+	#profile-pic{
+		float: left;
+		margin-right: 10px;
+	}
+
+
+
+	#connect-info{
+		color: #4aaaa5;
+		background-color: white;
+		font-size: 20px;
+		float: left;
+		padding-top: 0px;
+		padding: 0px;
+		margin-right: 40px;
+						}
+
+#contact-info{
+	color:#4aaaa5;
+	background-color: white;
+	height: 300px;
+	width: 650px;
+	margin-left: 10%;
+	margin-right: 2%;
+	float: left;
+}
+
+		.images{
+			width: 40px;
+			height: 40px;}	
+.paragraph{
+	color: black;
+	font: arial;
+
+}		
+
+a{
+		color: #777777;
+	}
+#main-body{
+	height: 300px;
+	width: 650px;
+	background-color: white;
+	margin-left: 10%;
+	margin-bottom: 40%;
+}	
+body{
+	background-color: #dddddd;
+}
+footer{
+	background-color: #666666;
+	text-align: center;
+	height: 50px;
+	margin-top: 400px;
+	border-top-style: solid;
+	border-top-color: #4aaaa5;
+	border-top-width: 10px;
+	
+
+	
+}
+.copyright{
+	padding-top: 1px;
+}
+h5{
+	margin-top: 20px;
+
+
+}			
+
+
+
