@@ -92,12 +92,29 @@ h5{
 
 #contact-info{
 		background-color: white;
-		width: 10px;
+		width: 720px;
 		margin-left: 55px;
 		float: left;
 		color: #4aaaa5;
+		height: 350px;
 	}
+#message{
+	width: 350px;
+	height: 100px;
+}
+#submitbtn{
+	background-color: #4aaaa5;
+	color: white;
+	font-size: 16px;
+}
 .links{
 	padding: 4px;
 }			
+
+.labels{
+	color:black;
+}
+.inputbox{
+	width:350px;
+}
 
