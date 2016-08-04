@@ -1,10 +1,11 @@
 #about-me-main-page{
-	width: 750px;
+	width: 650px;
 	font-family:Georgia;
 	color: #4aaaa5;
 	padding: 10px;
 	float:left;
-	margin: 10px;
+	margin-left: 134px;
+	background-color: white;
 }	
 
 	#name{
@@ -23,7 +24,9 @@
 		float: right;
 		text-align: center;
 		padding: 14px 16px;
-		margin-right: 365px;
+		margin-right: 328px;
+
+
 
 
 
@@ -42,6 +45,7 @@
 		float: left;
 		padding-top: 0px;
 		padding: 10px;
+		margin-left: 30px;
 		/*position: relative;*/
 						}
 
@@ -51,6 +55,9 @@
 .paragraph{
 	color: black;
 	font: arial;
+	background:white;
+	width: 640px;
+
 
 }		
 
@@ -89,5 +96,8 @@ h5{
 		margin-left: 55px;
 		float: left;
 		color: #4aaaa5;
-	}		
+	}
+.links{
+	padding: 4px;
+}			
 
